@@ -1,4 +1,4 @@
-# .github
+# MinmusLin.github
 
 MinmusLin.github repository, including issue template, pull request template, code of conduct, and security.
 
